@@ -1,4 +1,4 @@
-# hxcmp3.com Music Archive
+# [hxcmp3.com Music Archive ↗️](https://hxcmp3.sorzkode.com/)
 Another early 2000s preservation project by sorzkode.  
 
 ## Contents
@@ -11,11 +11,12 @@ The repository hosts all music files which can be downloaded in bulk via [Releas
 - **Albums**: 491  
 - **Tracks**: 882  
 - **Unknown**: 120  
-- **Uncompressed Size**: 2.35 GB  
+- **Uncompressed Size**: 2.35 GB
+- **Minutes**: 2,590
 
-> Unknown = tracks with mostly or completely missing ID3 tags and no archived URLs from archive.org.
+> Unknown = bands with no archived URLs from archive.org.
 
-> Recognize a band or song in the unknown category? Open a pull request and use the PR template.
+> Recognize a band or song in the unknown category? Open a [pull request](https://github.com/sorzkode/hxcmp3/pulls) and use the PR template.
 
 ## Methodology 
 I used Python to leverage archive.org's API to find all music files it archived from hxcmp3.com. From there, I used a variety of scripts, tools, and manual effort to tag and catalog the files.  
