@@ -21,9 +21,6 @@ The repository hosts all music files which can be downloaded in bulk via [Releas
 ## Methodology 
 I used Python to leverage archive.org's API to find all music files it archived from hxcmp3.com. From there, I used a variety of scripts, tools, and manual effort to tag and catalog the files.  
 
-## TODO
-I plan on creating a web UI to browse and serve these files. It is mostly done, but I am also very busy at the moment and don't know when I will be able to publish it.
-
 ## Legality
 To my knowledge, all the bands represented here have been defunct for many many years. I assume that any of the bands represented would be happy to have their musical legacy preserved. However, if you have legal ownership of any of the files in this collection and want me to remove it, open [an issue](https://github.com/sorzkode/hxcmp3/issues) and I will review.
 
