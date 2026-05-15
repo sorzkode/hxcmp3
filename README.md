@@ -40,4 +40,8 @@ This type of site was commonplace back then (IE mp3.com, MySpace Music, PureVolu
 ## Archive.org Copy
 [https://archive.org/details/hxcmp3.com_archive](https://archive.org/details/hxcmp3.com_archive)  
 
+## Other Archival Projects
+[https://archive.org/details/myspace-Music](https://archive.org/details/myspace-Music)  
+[https://github.com/sorzkode/mirc_scripts_archive](https://github.com/sorzkode/mirc_scripts_archive) AKA [Scriptserv](https://scriptserv.com)  
+
 *made with <3 and nostalgia*
